@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281964316496",
+    "firebase_url": "https://reciclademo.firebaseio.com",
+    "project_id": "reciclademo",
+    "storage_bucket": "reciclademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281964316496:android:b9fad6992fe928aa7f4e55",
+        "android_client_info": {
+          "package_name": "com.fourinbasement.intro_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281964316496-68ks62vgqodrnkopon9b0us237sqqhn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fourinbasement.intro_login",
+            "certificate_hash": "e1a949c9247e242c86d39974848ed4ae345565d7"
+          }
+        },
+        {
+          "client_id": "281964316496-99at71opo25t6v2sq6spf3cma6dptu60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLoFYRZs9YJmKNqBuEmiWd4s_MIALhge0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281964316496-99at71opo25t6v2sq6spf3cma6dptu60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
