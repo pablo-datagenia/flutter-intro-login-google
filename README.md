@@ -1,8 +1,9 @@
 # 4inB - Project
 
-# intro_login
+## intro_login
 
-A new Flutter project.
+
+Splash screen, login user, register user
 
 ## Getting Started
 

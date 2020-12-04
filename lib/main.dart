@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Login app Demo',
+      title: 'Splash Login Register app',
       initialRoute: SplashScreen.routeName,
       routes: routes,
     );
